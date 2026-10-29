@@ -6,3 +6,6 @@ def calculate_average(grades):
 
 def is_passing(average):
     return average >= 10
+
+
+
