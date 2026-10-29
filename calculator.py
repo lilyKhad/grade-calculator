@@ -17,3 +17,4 @@ def get_grade_category(average):
         return "Average"
     else:
         return "Fail"
+    
